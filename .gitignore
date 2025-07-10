@@ -1,0 +1,15 @@
+# Arquivos de ambiente Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Arquivos de log e resultados
+*.log
+*.xml
+*.json
+*.csv
+
+# Segredos e credenciais
+credentials.py
+secrets.txt
